@@ -1,5 +1,6 @@
 # README
 
+# 現場で使えるRUBY ON RAILS 5 速習ガイド 勉強中
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
