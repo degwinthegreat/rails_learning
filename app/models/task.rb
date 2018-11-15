@@ -6,6 +6,8 @@ class Task < ApplicationRecord
 
   belongs_to :user
 
+  scope :recent, -> { order(created_at: :desc) }
+
   private
 
   def set_nameless_name
